@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+googlemaps
+python-dotenv
+polyline
